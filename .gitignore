@@ -1,2 +1,11 @@
+# virtualenv
 pyenv/
+
+# idea dir
 .idea/
+
+# database
+db.sqlite3
+
+# migrations
+blog/migrations/
